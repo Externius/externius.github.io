@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+}
+.settings {
+    float: left;
+    width: 400px;
+}
+.drawarea{
+
+    float: left;
+}
+.description {
+    clear: both;
+}
+table, th, td {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;  
+    width: 100%;
+}
+td.room{
+    width: unset;
+}
+select{
+    width: 150px;
+}
